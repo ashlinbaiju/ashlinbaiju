@@ -42,10 +42,9 @@
 - Penetration Testing Fundamentals
 
 🚀 Projects
-- Network Security Labs
-- Wireshark Packet Analysis
-- Network Scanning using Nmap
-- CodSoft Projects
+• Stitch n Culture – Clothing Brand Website
+• CodSoft Projects
+• Prodigy InfoTech Projects
 
 📫 Connect With Me
 - GitHub: ashlinbaiju
