@@ -48,3 +48,4 @@
 
 📫 Connect With Me
 - GitHub: ashlinbaiju
+- LinkedIn: www.linkedin.com/in/ashlin-baiju-048093363/
