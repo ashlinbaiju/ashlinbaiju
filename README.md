@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ashlin Baiju 
 
-<!--
-**ashlinbaiju/ashlinbaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science & Mathematics Student
 
-Here are some ideas to get you started:
+💻 Technical Skills
+- Python
+- C Programming
+- SQL
+- Database Management
+- Backend Development
+- Git & GitHub
+- Linux Fundamentals
+- Network Fundamentals
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Areas of Interest
+- Cybersecurity
+- Network Security
+- Computer Networking
+- Security Analysis
+- Vulnerability Assessment
+
+🛠 Tools & Technologies
+- Kali Linux
+- Wireshark
+- Nmap
+- SQLite
+- MySQL
+- Git
+- GitHub
+- VS Code
+- VirtualBox
+- Cisco Packet Tracer
+- Scapy
+
+📚 Currently Learning
+- Computer Networking
+- Backend Development
+- Security Analysis
+- Packet Analysis
+- Network Monitoring
+- Penetration Testing Fundamentals
+
+🚀 Projects
+- Network Security Labs
+- Wireshark Packet Analysis
+- Network Scanning using Nmap
+- CodSoft Projects
+
+📫 Connect With Me
+- GitHub: ashlinbaiju
