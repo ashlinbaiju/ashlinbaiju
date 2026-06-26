@@ -42,6 +42,7 @@
 - Penetration Testing Fundamentals
 
 🚀 Projects
+• Network Scanner
 • Stitch n Culture – Clothing Brand Website
 • CodSoft Projects
 • Prodigy InfoTech Projects
